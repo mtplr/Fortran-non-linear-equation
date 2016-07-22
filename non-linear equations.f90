@@ -1,4 +1,4 @@
-!Numeric solution to non-linear equations using Newton and bisection methods
+!Numerical solution to non-linear equations using Newton and bisection methods
 !
 !(c) 2016 Matteo Paolieri
 !LICENSE: The MIT License (MIT)
